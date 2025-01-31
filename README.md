@@ -1,4 +1,8 @@
 ## Hi there 👋
+🌱 I’m currently learning and practicing web developing!
+👨🏻‍💻 I’m currently working on software developing
+🌟 My Experience : Python, React, NextJs , TailwindCss, Flutter | Dart , NodeJs | Bun , C#
+⚡ Fun fact: I'm a professional chess player ♟️ and basketball player 🏀
 
 <!--
 **ParsaProg/ParsaProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
