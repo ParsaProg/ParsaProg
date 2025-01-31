@@ -1,20 +1,26 @@
-## Hi there 👋
--🌱 I’m currently learning and practicing web developing!
--👨🏻‍💻 I’m currently working on software developing
--🌟 My Experience : Python, React, NextJs , TailwindCss, Flutter | Dart , NodeJs | Bun , C#
--⚡ Fun fact: I'm a professional chess player ♟️ and basketball player 🏀
+# 👋 Hey there! I'm Parsa
 
-<!--
-**ParsaProg/ParsaProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software & Web Developer from Iran
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Do
+I craft digital experiences that blend innovative design with robust functionality. My passion lies in building responsive, intuitive web and mobile applications that solve real-world problems.
+
+### 🌟 Expertise
+- Cross-platform development
+- Responsive web design
+- Mobile app creation
+- Performance optimization
+
+### 📊 GitHub Stats
+![Parsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+
+### 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+
+**Always learning, always growing** 🌱
