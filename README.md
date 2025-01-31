@@ -20,7 +20,7 @@ I craft digital experiences that blend innovative design with robust functionali
 ![Parsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-profile)
+[![Telegram](https://img.shields.io/badge/telegram-32A9E1?style=for-the-badge&logo=linkedin&logoColor=white)](t.me/@Parsa_Shaabani)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsashaabani3@gmail.com)
 
 **Always learning, always growing** 🌱
