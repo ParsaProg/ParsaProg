@@ -27,7 +27,7 @@ I craft digital experiences that blend innovative design with robust functionali
 
 ## 🌐 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-@Parsa__Shaabani-blue?style=flat-square&logo=telegram)](https://t.me/Parsa_Shaabani)
-[![Email](https://img.shields.io/badge/Email-contact@yourdomain.com-red?style=flat-square&logo=gmail)](mailto:contact@yourdomain.com)
+[![Email](https://img.shields.io/badge/Email-contact@yourdomain.com-red?style=flat-square&logo=gmail)](mailto:parsashaabani3@gmail.com)
 
 ## 🏆 Achievements
 - Open Source Contributor
