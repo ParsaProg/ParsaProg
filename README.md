@@ -1,8 +1,6 @@
 # Hi there! I'm Parsa Shaabani 👋
 
 ## 🚀 Software & Web Developer from Iran
-
-## 🚀 About Me
 Passionate developer exploring the world of code and innovation.
 
 ### 🛠️ What I Do
@@ -21,6 +19,7 @@ I craft digital experiences that blend innovative design with robust functionali
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
