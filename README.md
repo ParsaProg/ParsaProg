@@ -31,6 +31,3 @@ I craft digital experiences that blend innovative design with robust functionali
 ## 🏆 Achievements
 - Open Source Contributor
 - Tech Enthusiast
-
----
-*Crafted with ❤️ by Parsa Shaabani*
