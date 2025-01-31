@@ -14,7 +14,7 @@ I craft digital experiences that blend innovative design with robust functionali
 - Mobile app creation
 - Performance optimization
 
-## 🛠️ Technologies & Skills
+# 🛠️ Technologies & Skills
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -27,7 +27,7 @@ I craft digital experiences that blend innovative design with robust functionali
 
 ## 🌐 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-@Parsa__Shaabani-blue?style=flat-square&logo=telegram)](https://t.me/Parsa_Shaabani)
-[![Email](https://img.shields.io/badge/Email-contact@yourdomain.com-red?style=flat-square&logo=gmail)](mailto:parsashaabani3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-parsashaabani3@gmail.com-red?style=flat-square&logo=gmail)](mailto:parsashaabani3@gmail.com)
 
 ## 🏆 Achievements
 - Open Source Contributor
