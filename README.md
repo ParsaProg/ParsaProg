@@ -24,6 +24,24 @@ I craft digital experiences that blend innovative design with robust functionali
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParsaProg&show_icons=true&theme=radical)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+---
+[![](https://visitcount.itsvg.in/api?id=ParsaProg&icon=0&color=3)](https://visitcount.itsvg.in)
+
 ## 🌐 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-@Parsa__Shaabani-blue?style=flat-square&logo=telegram)](https://t.me/Parsa_Shaabani)
 [![Email](https://img.shields.io/badge/Email-parsashaabani3@gmail.com-red?style=flat-square&logo=gmail)](mailto:parsashaabani3@gmail.com)
