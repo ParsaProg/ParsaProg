@@ -22,7 +22,7 @@ I craft digital experiences that blend innovative design with robust functionali
 
 
 ## 📊 GitHub Stats
-![ParsaProg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParsaProg&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1)
+![Stats](https://github-readme-stats.vercel.app/api?username=ParsaProg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
 ## 🌐 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-@Parsa__Shaabani-blue?style=flat-square&logo=telegram)](https://t.me/Parsa_Shaabani)
