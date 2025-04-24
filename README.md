@@ -19,10 +19,14 @@ I craft digital experiences that blend innovative design with robust functionali
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
 
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ParsaProg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ParsaProg&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ParsaProg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ParsaProg&show_icons=true&theme=tokyonight&locale=en" alt="ParsaProg" /></p>
+
 
 ## 🌐 Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-@Parsa__Shaabani-blue?style=flat-square&logo=telegram)](https://t.me/Parsa_Shaabani)
