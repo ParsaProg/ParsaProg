@@ -13,9 +13,7 @@ I craft digital experiences that blend innovative design with robust functionali
 - Performance optimization
 
 # 🛠️ Technologies & Skills
-<div align="center">
-
-## Tech Stack
+<div align="start">
 
 <table>
 <tr>
