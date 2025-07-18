@@ -60,6 +60,32 @@ Passionate developer exploring the world of code and innovation.
             <br><b>Git</b>
         </td>
 </tr>
+        <tr>
+<td align="center" width="90">
+<img src="https://img.icons8.com/?size=512&id=TuXN3JNUBGOT&format=png" width="55" height="55" />
+<br><b>Advance Windows</b>
+</td>
+<td align="center" width="90">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="55" height="55" />
+<br><b>Adobe Photoshop</b>
+</td>
+<td align="center" width="90">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="55" height="55" />
+<br><b>Adobe illustrator</b>
+</td>
+<td align="center" width="90">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/500px-Adobe_InDesign_CC_icon.svg.png" width="55" height="55" />
+<br><b>Adobe InDesign</b>
+</td>
+<td align="center" width="90">
+<img src="https://img.icons8.com/fluent/600/coreldraw-2021.png" width="55" height="55" />
+<br><b>CorelDraw</b>
+</td>
+        <td align="center" width="96">
+            <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/flask-qvsfwhwywucb6zv0d7ce.png/flask-1byb2jlw6nwim4nx2248xg.png?_a=DATAdtAAZAA0" width="65" height="65" />
+            <br><b>Flask</b>
+        </td>
+</tr>
 </table>
 
 </div>
