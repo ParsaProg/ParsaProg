@@ -38,8 +38,8 @@ I craft digital experiences that blend innovative design with robust functionali
 <br><b>Tailwind</b>
 </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
-            <br><b>Docker(Learning)</b>
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+            <br><b>Python</b>
         </td>
 </tr>
 <tr>
