@@ -82,8 +82,8 @@ Passionate developer exploring the world of code and innovation.
 <br><b>CorelDraw</b>
 </td>
         <td align="center" width="96">
-            <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/flask-qvsfwhwywucb6zv0d7ce.png/flask-1byb2jlw6nwim4nx2248xg.png?_a=DATAdtAAZAA0" width="65" height="65" />
-            <br><b>Flask</b>
+            <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="65" height="65" />
+            <br><b>Framer Motion</b>
         </td>
 </tr>
 </table>
