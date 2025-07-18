@@ -64,9 +64,9 @@ I craft digital experiences that blend innovative design with robust functionali
 <br><b>Figma</b>
 </td>
         <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg"
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"
                 width="65" height="65" />
-            <br><b>Socket.io  Websocket</b>
+            <br><b>Git</b>
         </td>
 </tr>
 </table>
