@@ -52,12 +52,12 @@ I craft digital experiences that blend innovative design with robust functionali
 <br><b>shadcn/ui</b>
 </td>
 <td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/jest-icon.svg" width="55" height="55" />
-<br><b>Jest</b>
+<img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" width="55" height="55" />
+<br><b>Flutter</b>
 </td>
 <td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65"" width="55" height="55" />
-<br><b>Storybook</b>
+<img src="https://d2r9phh2n9g4lt.cloudfront.net/website/product-images/Dart.png" alt="icon" width="65" height="65"" width="55" height="55" />
+<br><b>Dart</b>
 </td>
 <td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
