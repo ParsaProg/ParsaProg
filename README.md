@@ -3,15 +3,6 @@
 ## 🚀 Software & Web Developer from Iran
 Passionate developer exploring the world of code and innovation.
 
-### 🛠️ What I Do
-I craft digital experiences that blend innovative design with robust functionality. My passion lies in building responsive, intuitive web and mobile applications that solve real-world problems.
-
-### 🌟 Expertise
-- Cross-platform development
-- Responsive web design
-- Mobile app creation
-- Performance optimization
-
 # 🛠️ Technologies & Skills
 <div align="start">
 
@@ -73,6 +64,14 @@ I craft digital experiences that blend innovative design with robust functionali
 
 </div>
 
+### 🛠️ What I Do
+I craft digital experiences that blend innovative design with robust functionality. My passion lies in building responsive, intuitive web and mobile applications that solve real-world problems.
+
+### 🌟 Expertise
+- Cross-platform development
+- Responsive web design
+- Mobile app creation
+- Performance optimization
 
 ## 📊 GitHub Stats
 <div align="start" style="display:flex;align-items:center;row-gap:10px;">
