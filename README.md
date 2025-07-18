@@ -13,13 +13,67 @@ I craft digital experiences that blend innovative design with robust functionali
 - Performance optimization
 
 # 🛠️ Technologies & Skills
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
+<div align="center">
+
+## Tech Stack
+
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" />
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" />
+<br><b>TypeScript</b>
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" />
+<br><b>React</b>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="55" height="55" />
+<br><b>Next.js</b>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
+<br><b>Tailwind</b>
+</td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
+            <br><b>Docker(Learning)</b>
+        </td>
+</tr>
+<tr>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="55" />
+<br><b>Redux Toolkit</b>
+</td>
+<td align="center" width="90">
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="55" height="55" style="border-radius: 10px;" />
+<br><b>shadcn/ui</b>
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/jest-icon.svg" width="55" height="55" />
+<br><b>Jest</b>
+</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65"" width="55" height="55" />
+<br><b>Storybook</b>
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
+<br><b>Figma</b>
+</td>
+        <td align="center" width="96">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg"
+                width="65" height="65" />
+            <br><b>Socket.io  Websocket</b>
+        </td>
+</tr>
+</table>
+
+</div>
 
 
 ## 📊 GitHub Stats
