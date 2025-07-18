@@ -76,7 +76,7 @@ I craft digital experiences that blend innovative design with robust functionali
 
 ## 📊 GitHub Stats
 <div align="start" style="display:flex;align-items:center;row-gap:10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ParsaProg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFF&border_radius=10" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ParsaProg&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFF&border_radius=10" width="400" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParsaProg&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFF&area=true&hide_border=true&radius=10" width="400" />
 </div>
