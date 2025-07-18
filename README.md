@@ -44,8 +44,8 @@ I craft digital experiences that blend innovative design with robust functionali
 </tr>
 <tr>
 <td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="55" />
-<br><b>Redux Toolkit</b>
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="55" height="55" />
+<br><b>C#</b>
 </td>
 <td align="center" width="90">
 <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="55" height="55" style="border-radius: 10px;" />
