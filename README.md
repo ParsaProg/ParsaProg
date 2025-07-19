@@ -91,7 +91,7 @@
 <div align="start" style="display:flex;align-items:center;row-gap:10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=ParsaProg&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=0077D4&icon_color=0077D4&text_color=FFF&border_radius=10" width="400" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParsaProg&bg_color=0D1117&color=0077D4&line=0077D4&point=FFF&area=false&hide_border=true&radius=10" width="500" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ParsaProg&bg_color=0D1117&color=0077D4&line=0077D4&point=FFF&area=false&hide_border=true&radius=10" width="350" />
 </div>
 
 
