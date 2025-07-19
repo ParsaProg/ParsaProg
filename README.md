@@ -6,32 +6,30 @@ Passionate developer exploring the world of code and innovation.
 # 🛠️ Technologies & Skills
 
 <div align="start">
-## 🛠 Technical Skills
-
 ### 💻 Frontend Development
 <table>
   <tr>
-    <td align="center" width="110">
+    <td align="center"">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" />
       <br><b>JavaScript</b>
     </td>
-    <td align="center" width="110">
+    <td align="center">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" />
       <br><b>TypeScript</b>
     </td>
-    <td align="center" width="110">
+    <td align="center">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" />
       <br><b>React</b>
     </td>
-    <td align="center" width="110">
+    <td align="center" >
       <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="55" height="55" />
       <br><b>Next.js</b>
     </td>
-    <td align="center" width="110">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
       <br><b>Tailwind CSS</b>
     </td>
-    <td align="center" width="110">
+    <td align="center" >
       <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="55" height="55" />
       <br><b>Framer Motion</b>
     </td>
