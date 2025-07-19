@@ -79,7 +79,7 @@ Passionate developer exploring the world of code and innovation.
 </td>
 <td align="center" width="90">
 <img src="https://img.icons8.com/fluent/600/coreldraw-2021.png" width="65" height="65" />
-<br><b>CorelDraw</b>
+<br><b>CorelDraw (Vectore App)</b>
 </td>
         <td align="center" width="96">
             <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="55" height="55" />
