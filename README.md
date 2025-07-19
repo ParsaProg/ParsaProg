@@ -4,90 +4,105 @@
 Passionate developer exploring the world of code and innovation.
 
 # 🛠️ Technologies & Skills
-<div align="start">
 
+<div align="start">
+## 🛠 Technical Skills
+
+### 💻 Frontend Development
 <table>
-<tr>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" />
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" />
-<br><b>TypeScript</b>
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" />
-<br><b>React</b>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="55" height="55" />
-<br><b>Next.js</b>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
-<br><b>Tailwind</b>
-</td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-            <br><b>Python</b>
-        </td>
-</tr>
-<tr>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="55" height="55" />
-<br><b>C#</b>
-</td>
-<td align="center" width="90">
-<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="55" height="55" style="border-radius: 10px;" />
-<br><b>shadcn/ui</b>
-</td>
-<td align="center" width="90">
-<img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" width="55" height="55" />
-<br><b>Flutter</b>
-</td>
-<td align="center" width="90">
-<img src="https://d2r9phh2n9g4lt.cloudfront.net/website/product-images/Dart.png" alt="icon" width="55" height="55"" width="55" height="55" />
-<br><b>Dart</b>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
-<br><b>Figma</b>
-</td>
-        <td align="center" width="96">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"
-                width="65" height="65" />
-            <br><b>Git</b>
-        </td>
-</tr>
-        <tr>
-<td align="center" width="90">
-<img src="https://img.icons8.com/?size=512&id=TuXN3JNUBGOT&format=png" width="55" height="55" />
-<br><b>Advance Windows</b>
-</td>
-<td align="center" width="90">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="55" height="55" />
-<br><b>Adobe Photoshop</b>
-</td>
-<td align="center" width="90">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="55" height="55" />
-<br><b>Adobe illustrator</b>
-</td>
-<td align="center" width="90">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/500px-Adobe_InDesign_CC_icon.svg.png" width="55" height="55" />
-<br><b>Adobe InDesign</b>
-</td>
-<td align="center" width="90">
-<img src="https://img.icons8.com/fluent/600/coreldraw-2021.png" width="55" height="55" />
-<br><b>CorelDraw (Vectore)</b>
-</td>
-        <td align="center" width="96">
-            <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="55" height="55" />
-            <br><b>Framer Motion</b>
-        </td>
-</tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" />
+      <br><b>JavaScript</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" />
+      <br><b>TypeScript</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" />
+      <br><b>React</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="55" height="55" />
+      <br><b>Next.js</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
+      <br><b>Tailwind CSS</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="55" height="55" />
+      <br><b>Framer Motion</b>
+    </td>
+  </tr>
 </table>
 
+### 📱 Mobile Development
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://docs.flutter.dev/assets/images/flutter-logo-sharing.png" width="55" height="55" />
+      <br><b>Flutter</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://d2r9phh2n9g4lt.cloudfront.net/website/product-images/Dart.png" width="55" height="55" />
+      <br><b>Dart</b>
+    </td>
+  </tr>
+</table>
+
+### 🎨 Design & UI/UX
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
+      <br><b>Figma</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="55" height="55" />
+      <br><b>Photoshop</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="55" height="55" />
+      <br><b>Illustrator</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/500px-Adobe_InDesign_CC_icon.svg.png" width="55" height="55" />
+      <br><b>InDesign</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/fluent/600/coreldraw-2021.png" width="55" height="55" />
+      <br><b>CorelDraw</b>
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Backend & Tools
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" />
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="55" height="55" />
+      <br><b>C#</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="55" height="55" />
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="55" height="55" style="border-radius: 10px;" />
+      <br><b>shadcn/ui</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/?size=512&id=TuXN3JNUBGOT&format=png" width="55" height="55" />
+      <br><b>Windows</b>
+    </td>
+  </tr>
+</table>
 </div>
 
 ### 🛠️ What I Do
