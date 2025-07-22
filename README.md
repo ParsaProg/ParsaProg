@@ -82,7 +82,7 @@ Passionate developer exploring the world of code and innovation.
 <br><b>CorelDraw (Vectore)</b>
 </td>
         <td align="center" width="96">
-            <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="55" height="55" />
+            <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="60" height="60" />
             <br><b>Framer Motion</b>
         </td>
 </tr>
